@@ -1,6 +1,7 @@
 # Enchancement Expanded
 Unofficial addon for mod Enchancement: https://github.com/MoriyaShiine/enchancement
-This mod may have ballance issues
+
+This mod may have ballance issues, so feel free to open balance issues
 
 # New Enchantments
 None cuz i didnt make then yet
