@@ -1,20 +1,17 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
-title: ''
+about: Suggest an idea or enchantment for this mod
+title: "[FEATURE]"
 labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**What kind of feature you want**
+Add new feature such as [...] / Add new enchantment named [...] that will do [...]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Why do you want this feature**
+I have problem related to [...] / I hate when [...] happens / I want to [...] be possible
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+It also can do [...] and [...] / It can combo with [...] to make [...]
