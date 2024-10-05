@@ -50,7 +50,7 @@ blindness - can't see players sneaking, can see sounds through walls - helmet
 
 arcane - helmets	potion effects lasts 2 times longer (even negative) - helmet
 
-stability	s	user cannot get knockback - chestplate
+stability	-	user cannot get knockback - chestplate
 
 study - all xp is multiplied by 2, crops now drop xp - chestplate
 
